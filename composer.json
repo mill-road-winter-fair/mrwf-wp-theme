@@ -1,0 +1,7 @@
+{
+	"name": "mill-road-winter-fair/core-theme",
+	"type": "wordpress-theme",
+	"license": "GPLv3",
+	"decription": "The wordpress theme for the Mill Road Winter Fair website.",
+	"homepage": "https://github.com/mill-road-winter-fair/mrwf-wp-theme"
+}
